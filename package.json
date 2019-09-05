@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "fastify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "tap",
+    "server": "node server.js"
+  },
+  "dependencies": {
+    "fastify": "^2.8.0"
+  },
+  "devDependencies": {
+    "tap": "^14.6.1"
+  }
+}
